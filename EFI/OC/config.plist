@@ -1576,17 +1576,17 @@
 		<key>Generic</key>
 		<dict>
 			<key>MLB</key>
-			<string>C02928310GULNV9CB</string>
+			<string>F5K914501QXK3F7JA</string>
 			<key>ROM</key>
 			<data>jEFgHyRq</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
-			<string>iMac19,1</string>
+			<string>MacPro7,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02Z2VYBJV3Q</string>
+			<string>F5KYJ5Y2P7QM</string>
 			<key>SystemUUID</key>
-			<string>0ADD442E-DCD6-400E-AB78-74F1B5687C9B</string>
+			<string>3D6D84AC-9E0B-4A43-A9B3-94486FEE8C96</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
